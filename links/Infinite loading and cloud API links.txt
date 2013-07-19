@@ -1,0 +1,14 @@
+cloud API docs
+http://api.shephertz.com/cloudapidocs/guide/0.8.3/java/shoppingcart_api.html#create_cart
+
+http://architects.dzone.com/articles/5-things-java-developer-should
+
+Jquery API docs
+http://api.jquery.com/category/css/
+
+Infinite page loading on scrolling link
+http://java.dzone.com/articles/infinite-scroll-loading
+
+Git hub setup
+
+http://dotnet.dzone.com/articles/intro-git

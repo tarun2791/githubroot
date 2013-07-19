@@ -1,0 +1,15 @@
+http://indiabix.com/networking/networking-basics
+http://indiabix.com/networking/tcp-ip/
+
+http://indiabix.com/database/questions-and-answers/
+http://indiabix.com/database/introduction-to-database/
+http://indiabix.com/database/introduction-to-sql/
+
+http://indiabix.com/computer-science/operating-systems-concepts/
+
+http://indiabix.com/computer-science/linux/
+
+http://indiabix.com/computer-science/disk-operating-system-dos
+
+
+
